@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">ProkhorovPankinLab1</string>
+    <string name="logo">Логотип приложения</string>
+    <string name="greeting_title">Приветствие</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="exit">Выход</string>
+    <string name="registration_title">Регистрация</string>
+    <string name="name">Имя</string>
+    <string name="email">Email</string>
+    <string name="phone">Телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+    <string name="menu_title">Меню</string>
+    <string name="start">Старт</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
+    <string name="report_problem">Сообщить о проблеме</string>
+    <string name="settings_title">Настройки</string>
+    <string name="night_theme">Ночной стиль</string>
+    <string name="profile_title">Профиль</string>
+    <string name="profile_name_value">Имя: %1$s</string>
+    <string name="profile_login_value">Логин: %1$s</string>
+    <string name="profile_email_value">Email: %1$s</string>
+    <string name="profile_phone_value">Телефон: %1$s</string>
+    <string name="start_pressed">Старт</string>
+    <string name="no_problem_app">Gmail не установлен</string>
+    <string name="fill_login_password">Введите логин и пароль</string>
 </resources>

@@ -12,6 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProkhorovPankinLab1">
         <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
             android:name=".HelloActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
