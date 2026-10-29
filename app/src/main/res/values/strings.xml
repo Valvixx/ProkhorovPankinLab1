@@ -28,4 +28,12 @@
     <string name="start_pressed">Старт</string>
     <string name="no_problem_app">Gmail не установлен</string>
     <string name="fill_login_password">Введите логин и пароль</string>
+    <string name="avatar">Аватар</string>
+    <string name="choose_avatar">Выбрать аватар</string>
+    <string name="fio">ФИО</string>
+    <string name="birth_date">Дата рождения (дд.мм.гггг)</string>
+    <string name="male">М</string>
+    <string name="female">Ж</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="add">Добавить</string>
 </resources>
